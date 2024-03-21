@@ -44756,6 +44756,70 @@ Data.clothing = {
                     hash = 1587941930,
                 },
             },
+            {
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_001",
+                    hash = -646056055,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_002",
+                    hash = 244965824,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_003",
+                    hash = 73387340,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_004",
+                    hash = -103532491,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_005",
+                    hash = -527497813,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_006",
+                    hash = 1569324959,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_007",
+                    hash = 1263229730,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_008",
+                    hash = -558202346,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_009",
+                    hash = -252369269,
+                },
+                {
+                    hashname = "CLOTHING_ITEM_F_SHIRT_304_TINT_010",
+                    hash = 1246979454,
+                },
+            },
+            {
+                {
+                    hashname = "CLOTHING_ITEM_F_VAQUERO_SHIRT_000",
+                    hash = -1948623155,
+                },
+                {
+                    hashname = "",
+                    hash = 4745637,
+                },
+                {
+                    hashname = "",
+                    hash = 1513765413,
+                },
+                {
+                    hashname = "",
+                    hash = 1621644826,
+                },
+                {
+                    hashname = "",
+                    hash = -64974639,
+                },
+            },
             --[[    { -- theres no skin and its not
                 {
                     hashname = "CLOTHING_ITEM_F_SHIRT_400_VAR_000",
